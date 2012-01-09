@@ -1,0 +1,8 @@
+This is based off of @wycats handlebars js - https://github.com/wycats/handlebars.js/blob/master/README.markdown 
+
+I fixed a bunch of errors in the compiled version of the 1.0.beta.2 version. I went ahead and added the minified version too.
+
+Let me know if you have any questions or see any issues - use the issues section if need be.
+
+Thanks,
+JERANG
